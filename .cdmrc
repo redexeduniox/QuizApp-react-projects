@@ -1,0 +1,2 @@
+tabs: ['src/App.js','src/components/Quiz.js']
+terminals: ['yarn install && yarn start']
